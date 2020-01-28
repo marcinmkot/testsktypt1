@@ -1,5 +1,5 @@
 <?php
 
-echo "pierwsza wersja";
+echo "druga  wersja";
 
 ?>
